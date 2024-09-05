@@ -1,0 +1,6 @@
+/bsq
+*.o
+*.swp
+.vscode
+compile_flags.txt
+maps/bigmap*
